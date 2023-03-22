@@ -1,0 +1,47 @@
+{
+    "manifest_version": 1,
+    "name": "Thwomp 64",
+    "description": "For the tactile keyboard enjoyers.",
+    "version": "1.0",
+    "icons":
+    {
+        "twhomp": "twhomp.png"
+    },
+    "author": "Opera Software",
+    "developer":
+    {
+        "name": "Opera Software"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+        
+            "keyboard_sounds":
+            {
+                "TYPING_LETTER":
+                [
+                    "sounds/savun_thwomp.mp3",
+                    "sounds/savun_thwomp.mp3",
+                    "sounds/savun_thwomp.mp3",
+                    "sounds/savun_thwomp.mp3"
+
+                ],
+                "TYPING_ENTER":
+                [
+                    "sounds/savun_thwomp.mp3"
+                ],
+                "TYPING_SPACE":
+                [
+                    "sounds/savun_thwomp.mp3"
+                ],
+                "TYPING_BACKSPACE":
+                [
+                    "sounds/savun_thwomp.mp3"
+                ]
+            }
+       }
+    }
+    
+}
